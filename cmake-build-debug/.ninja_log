@@ -1,0 +1,8 @@
+# ninja log v5
+2	252	6985204287561734	build.ninja	a43e404ba3850d41
+0	121	6985202059595518	CMakeFiles/C_Coding.dir/main.c.obj	6c9cecc482427f5b
+0	120	6985202958115423	CMakeFiles/01-overview.dir/01-Studying/01-overview.c.obj	4614ee544766df1
+121	258	6985202959470270	01-overview.exe	ad64be5cc2c85ce6
+1	122	6983654232941630	CMakeFiles/01-test.dir/02-Practices/01-test.c.obj	275f4da8d54dedf
+3	134	6985202678230256	C_Coding.exe	df7144a063b46d05
+1	239	6985204287561734	build.ninja	a43e404ba3850d41
