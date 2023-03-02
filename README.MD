@@ -42,3 +42,7 @@
 
 [C语言学习 - 哔哩哔哩](https://www.bilibili.com/video/BV1q54y1q79w/?p=1&vd_source=e93db8e283df4aca468f401c43d14444)
 
+[C语言教程 - 阮一峰](https://wangdoc.com/clang/)
+
+
+
