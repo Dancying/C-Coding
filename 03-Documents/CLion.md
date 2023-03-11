@@ -36,7 +36,7 @@
 - [C/C++ Single File Execution](https://plugins.jetbrains.com/plugin/8352-c-c--single-file-execution)
 
 
-### 其他设置
+### 自定义设置
 
 1. 文件 -> 设置 -> 外观与行为 -> 外观：字体大小设置为 **`14`**
 2. 文件 -> 设置 -> 按键映射：设置为 `Sublime Text`
